@@ -1,0 +1,1 @@
+Repositório destinado aos meus conhecimentos em Java do Curso em vídeo, sequindo o curso de Java básico do Gustavo Guanabara.
